@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #f7f4ea;
+    background-image: radial-gradient(#d3cbbd 1.5px, transparent 1.5px);
+    background-size: 20px 20px;
+    font-family: 'Patrick Hand', 'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', system-ui, sans-serif;
+    color: #111111;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+}

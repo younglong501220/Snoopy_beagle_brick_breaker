@@ -1,0 +1,6 @@
+{
+  "name": "Beagle Brick Breaker - 小獵犬打磚塊",
+  "description": "經典美式黑白線條漫畫風格的小獵犬打磚塊遊戲。操控紅色小狗屋擋板、擊發棒球彈珠，擊碎角色主題彩色磚塊，體驗復古漫畫音效與爽快連擊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
